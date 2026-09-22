@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+saved_model/
+mnist_cnn.keras
+.DS_Store
+Thumbs.db
